@@ -1,0 +1,2 @@
+# Synapse
+ALL FILES
